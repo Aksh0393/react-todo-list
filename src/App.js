@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import List from "./List";
-import cheem from './cheem.png';
 import one from './1.gif';
-import two from './2.gif';
 import "./App.css";
 const App = () => {
 const [item,setitem]=useState("");
